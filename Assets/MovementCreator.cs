@@ -1,54 +1,82 @@
- using UnityEngine;
+using UnityEngine;
 
 public class MovementCreator : MonoBehaviour
 {
     [SerializeField] private float SpeedMove = 2f;
     [SerializeField] private float SpeedJump = 10f;
-    
-    private bool jump = true;
+    [SerializeField] private float raycastDistance = 1.3f;
+    [SerializeField] private LayerMask groundLayer;
+
+    private bool isGrounded = true;
     private Rigidbody2D rb;
-    SpriteRenderer spriteRenderer;
+    private SpriteRenderer spriteRenderer;
     public Animator animator;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public CoinManager cm;
+
     void Start()
     {
-      rb = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
-  
-    // Update is called once per frame
+
     void Update()
     {
-    //transform.Translate(new Vector2(Input.GetAxis("Horizontal"), 0) * SpeedMove * Time.deltaTime);
-    if(Input.GetAxis("Horizontal")!=0)
-    {
-        rb.linearVelocityX = Input.GetAxis("Horizontal") * SpeedMove;
-    }
-    //rb.AddForce(new Vector2(Input.GetAxis("Horizontal") * SpeedMove, 0));
-
-    if (jump && Input.GetKey(KeyCode.Space))
-    {
-        rb.AddForce(new Vector2(0, SpeedJump), ForceMode2D.Impulse);
-        jump = false; 
-        animator.SetBool("IsJumping", true);
-    }
-    float move = Input.GetAxis("Horizontal");
-
-    if (move > 0) {
-        spriteRenderer.flipX = false;  // Смотрит вправо
-    } else if (move < 0) {
-        spriteRenderer.flipX = true;   // Смотрит влево
-    }
-    animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocityX));
-
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if(!jump)
+        // Движение
+        float moveInput = Input.GetAxis("Horizontal");
+        if (moveInput != 0)
         {
-        jump = true;
-        animator.SetBool("IsJumping", false);
+            rb.linearVelocity = new Vector2(moveInput * SpeedMove, rb.linearVelocity.y);
+        }
+        else
+        {
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+        }
+
+        // Raycast для проверки земли
+        bool wasGrounded = isGrounded; // Запоминаем предыдущее состояние
+        isGrounded = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, groundLayer);
+        Debug.Log("Is Grounded: " + isGrounded);
+
+        // Прыжок
+        if (isGrounded && Input.GetKeyDown(KeyCode.Space))
+        {
+            rb.AddForce(new Vector2(0, SpeedJump), ForceMode2D.Impulse);
+            animator.SetBool("IsJumping", true);
+            Debug.Log("Jump started");
+        }
+
+        // Ориентация
+        if (moveInput > 0)
+        {
+            spriteRenderer.flipX = false;
+        }
+        else if (moveInput < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+
+        // Анимации
+        animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
+
+        // Сброс прыжка при приземлении
+        if (isGrounded && !wasGrounded) // Только что приземлились
+        {
+            animator.SetBool("IsJumping", false);
+            Debug.Log("Jump ended");
+        }
+    }
+
+    void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawRay(transform.position, Vector2.down * raycastDistance);
+    }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.gameObject.CompareTag("Melon"))
+        {
+            Destroy(other.gameObject);
+             cm.coinCount++;
         }
     }
 }
-  
