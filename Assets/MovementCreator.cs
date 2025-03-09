@@ -21,7 +21,7 @@ public class MovementCreator : MonoBehaviour
 
     void Update()
     {
-        // Движение
+        
         float moveInput = Input.GetAxis("Horizontal");
         if (moveInput != 0)
         {
@@ -32,20 +32,20 @@ public class MovementCreator : MonoBehaviour
             rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
         }
 
-        // Raycast для проверки земли
-        bool wasGrounded = isGrounded; // Запоминаем предыдущее состояние
+        
+        bool wasGrounded = isGrounded; 
         isGrounded = Physics2D.Raycast(transform.position, Vector2.down, raycastDistance, groundLayer);
-        Debug.Log("Is Grounded: " + isGrounded);
+       
 
-        // Прыжок
+       
         if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(new Vector2(0, SpeedJump), ForceMode2D.Impulse);
             animator.SetBool("IsJumping", true);
-            Debug.Log("Jump started");
+            
         }
 
-        // Ориентация
+        
         if (moveInput > 0)
         {
             spriteRenderer.flipX = false;
@@ -55,14 +55,14 @@ public class MovementCreator : MonoBehaviour
             spriteRenderer.flipX = true;
         }
 
-        // Анимации
+       
         animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
 
         // Сброс прыжка при приземлении
-        if (isGrounded && !wasGrounded) // Только что приземлились
+        if (isGrounded && !wasGrounded) 
         {
             animator.SetBool("IsJumping", false);
-            Debug.Log("Jump ended");
+           
         }
     }
 
@@ -75,7 +75,7 @@ public class MovementCreator : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Melon"))
         {
-            Destroy(other.gameObject);
+            Destroy(other.gameObject, 0.3f);
              cm.coinCount++;
         }
     }

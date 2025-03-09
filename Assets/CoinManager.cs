@@ -3,13 +3,29 @@ using UnityEngine;
 public class CoinManager : MonoBehaviour
 {
     public int coinCount;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public AudioClip pickupSound;
+    private AudioSource audioSource;
     void Start()
     {
-        
+         audioSource = gameObject.AddComponent<AudioSource>();
     }
-
-    // Update is called once per frame
+     private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player")) 
+        {
+              Debug.Log("Player collided with coin!");
+              PlayPickupSound();
+        }  
+      
+    }
+     private void PlayPickupSound()
+        {
+            if(pickupSound != null)
+            {
+                audioSource.PlayOneShot(pickupSound);
+                 Debug.Log("Playing pickup sound!");
+            }
+        }
     void Update()
     {
         
