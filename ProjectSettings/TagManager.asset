@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Melon
+  - Death
+  - Traps
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - Platform
   - Player
   - Collectible
-  - 
+  - DeathObject
   - 
   - 
   - 
@@ -44,6 +46,9 @@ TagManager:
     locked: 0
   - name: Platform
     uniqueID: 1870692239
+    locked: 0
+  - name: Death
+    uniqueID: 452544377
     locked: 0
   m_RenderingLayers:
   - Default
