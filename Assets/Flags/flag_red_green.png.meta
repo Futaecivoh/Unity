@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flag_red_green_0: 328195033880691650
+      flag_red_green_1: -1124880810554425291
+      flag_red_green_2: -5954559548498882980
+      flag_red_green_3: -2792429995318917522
+      flag_red_green_4: -2358821073825810279
+      flag_red_green_5: 132173763347966430
+      flag_red_green_6: 7823426663991763566
+      flag_red_green_7: 2058138686268120570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

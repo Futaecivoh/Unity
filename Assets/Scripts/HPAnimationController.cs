@@ -6,6 +6,7 @@ public class HPAnimationController : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
+        
     }
 
     public void DestroyAnim()

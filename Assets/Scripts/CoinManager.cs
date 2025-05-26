@@ -17,16 +17,6 @@ public class CoinManager : MonoBehaviour
         UpdateCoinText(); 
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player")) 
-        {
-            PlayPickupSound();
-            coinCount++; 
-            UpdateCoinText(); 
-        }
-    }
-
     private void PlayPickupSound()
     {
         if (pickupSound != null)
@@ -42,4 +32,11 @@ public class CoinManager : MonoBehaviour
             coinText.text = "Melons: " + coinCount;
         }
     }
+
+    public void AddCoin()
+{
+    coinCount++;
+    UpdateCoinText();
+    PlayPickupSound();
+}
 }

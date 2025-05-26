@@ -1,0 +1,1664 @@
+fileFormatVersion: 2
+guid: 9309ae4d064e2c142a450f25cbdee327
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8404737975286858074
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_0
+  - first:
+      213: 7266845390018058660
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_1
+  - first:
+      213: 2780274168640073326
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_2
+  - first:
+      213: -3730409640623090287
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_3
+  - first:
+      213: 7721200550848361404
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_4
+  - first:
+      213: -6744169578397624637
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_5
+  - first:
+      213: -8688032201555186028
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_6
+  - first:
+      213: 3072850558318853917
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_7
+  - first:
+      213: -7259439400214187370
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_8
+  - first:
+      213: -5189970418313740951
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_9
+  - first:
+      213: -4317553583038743660
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_10
+  - first:
+      213: -2072571019996014155
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_11
+  - first:
+      213: -5926489694581817721
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_12
+  - first:
+      213: 3684265026640997703
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_13
+  - first:
+      213: -8540569995804610457
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_14
+  - first:
+      213: -8788386039737301424
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_15
+  - first:
+      213: 614634674098861667
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_16
+  - first:
+      213: -7638198403746350130
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_17
+  - first:
+      213: 4350823932551023013
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_18
+  - first:
+      213: -7032141339227039217
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_19
+  - first:
+      213: 5398341577067117499
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_20
+  - first:
+      213: -3644825839543734548
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_21
+  - first:
+      213: -7271992885914692726
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_22
+  - first:
+      213: -2511964656063712715
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_23
+  - first:
+      213: -472868931737777624
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_24
+  - first:
+      213: -3695264069800330941
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_25
+  - first:
+      213: 9140043627718780006
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_26
+  - first:
+      213: 1258468882565176769
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_27
+  - first:
+      213: -1717578182409286179
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_28
+  - first:
+      213: 4047016852864404858
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_29
+  - first:
+      213: 9100936335773525982
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_30
+  - first:
+      213: -5283391698529304444
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_31
+  - first:
+      213: -115864025834608988
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_32
+  - first:
+      213: 4944908668389162708
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_33
+  - first:
+      213: -4728872957154643953
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_34
+  - first:
+      213: 3890635517905088809
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_35
+  - first:
+      213: -194100079657586268
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_36
+  - first:
+      213: 1157496611567189034
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_37
+  - first:
+      213: 138244084777312292
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_38
+  - first:
+      213: 5964428963517273281
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_39
+  - first:
+      213: 560667006647361383
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_40
+  - first:
+      213: 3113107242289255468
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_41
+  - first:
+      213: 207087899876402373
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_42
+  - first:
+      213: 8631187036154277290
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_43
+  - first:
+      213: -2754787668185053432
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_44
+  - first:
+      213: -2922164549491960828
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_45
+  - first:
+      213: 3908485770570800716
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_46
+  - first:
+      213: -2377953536020278770
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_47
+  - first:
+      213: -4055197181342925978
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_48
+  - first:
+      213: 7207867183905114935
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_49
+  - first:
+      213: -5136577118510531363
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_50
+  - first:
+      213: 2559974031537986162
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_51
+  - first:
+      213: 5698236646923130990
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_52
+  - first:
+      213: 7855108479952238645
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_53
+  - first:
+      213: 7537927328333335013
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_54
+  - first:
+      213: 5243940530547448265
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_55
+  - first:
+      213: -1064709981674149939
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_56
+  - first:
+      213: -8418637254648612504
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_57
+  - first:
+      213: -3216433906176115693
+    second: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 345
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae7ac8775f5c5b80800000000000000
+      internalID: -8404737975286858074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 882
+        width: 192
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a916bd716509d460800000000000000
+      internalID: 7266845390018058660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 905
+        width: 488
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e6cf730a4859620800000000000000
+      internalID: 2780274168640073326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 882
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195d7f7423cea3cc0800000000000000
+      internalID: -3730409640623090287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 882
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3fdd80ef6372b60800000000000000
+      internalID: 7721200550848361404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 887
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c61d962085e762a0800000000000000
+      internalID: -6744169578397624637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 870
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ee52d6eb8ed6780800000000000000
+      internalID: -8688032201555186028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 864
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb4785d45f4aa20800000000000000
+      internalID: 3072850558318853917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_8
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 860
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69232c1e35a414b90800000000000000
+      internalID: -7259439400214187370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 828
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dbf95f66589f7b0800000000000000
+      internalID: -5189970418313740951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 833
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bb24044e7f414c0800000000000000
+      internalID: -4317553583038743660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 821
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b95e5563afbc33e0800000000000000
+      internalID: -2072571019996014155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 816
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eff6dc501e0cda0800000000000000
+      internalID: -5926489694581817721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 783
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de45b8583212330800000000000000
+      internalID: 3684265026640997703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 792
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f4b4b6dcc97980800000000000000
+      internalID: -8540569995804610457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 796
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056c470b571690680800000000000000
+      internalID: -8788386039737301424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_16
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 789
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366fc48cafe978800800000000000000
+      internalID: 614634674098861667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_17
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 776
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb3ebc450baff590800000000000000
+      internalID: -7638198403746350130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_18
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 787
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c8f3a05b316c30800000000000000
+      internalID: 4350823932551023013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 771
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5809b5b0d86e90800000000000000
+      internalID: -7032141339227039217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 771
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbbe4d0013caea40800000000000000
+      internalID: 5398341577067117499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_21
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 774
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea4d5c53afa6dc0800000000000000
+      internalID: -3644825839543734548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 772
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8313e9bff0b41b90800000000000000
+      internalID: -7271992885914692726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 1247
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5327cfa4475b32dd0800000000000000
+      internalID: -2511964656063712715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 753
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a837246380079f0800000000000000
+      internalID: -472868931737777624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 744
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349794828e8c7bcc0800000000000000
+      internalID: -3695264069800330941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 728
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66420cdd045f7de70800000000000000
+      internalID: 9140043627718780006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 720
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd1e22f7caf67110800000000000000
+      internalID: 1258468882565176769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 706
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd88834ebfe928e0800000000000000
+      internalID: -1717578182409286179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 710
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d800bb264e92830800000000000000
+      internalID: 4047016852864404858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_30
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7e939e0650d4e70800000000000000
+      internalID: 9100936335773525982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 667
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c9e72e3f9da6b0800000000000000
+      internalID: -5283391698529304444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_32
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 372
+        width: 249
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6a1e9484e546ef0800000000000000
+      internalID: -115864025834608988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_33
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 613
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4def5121c38df9440800000000000000
+      internalID: 4944908668389162708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 589
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b8d0a91baf5eb0800000000000000
+      internalID: -4728872957154643953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_35
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 597
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921304bd3605ef530800000000000000
+      internalID: 3890635517905088809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_36
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 450
+        width: 478
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17225810b6e4df0800000000000000
+      internalID: -194100079657586268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_37
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 580
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3e291901401010800000000000000
+      internalID: 1157496611567189034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_38
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 420
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420637d33442be100800000000000000
+      internalID: 138244084777312292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_39
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c49f7a9a88e5c250800000000000000
+      internalID: 5964428963517273281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_40
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 437
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5f780ca3e7c700800000000000000
+      internalID: 560667006647361383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_41
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 445
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24d85cfa8af33b20800000000000000
+      internalID: 3113107242289255468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_42
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 429
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c42a650959bfd200800000000000000
+      internalID: 207087899876402373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_43
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 434
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadaeef11e228c770800000000000000
+      internalID: 8631187036154277290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_44
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 436
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8070436163705c9d0800000000000000
+      internalID: -2754787668185053432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_45
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 425
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404da4413d26277d0800000000000000
+      internalID: -2922164549491960828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_46
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 411
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9a8ca91bbd3630800000000000000
+      internalID: 3908485770570800716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_47
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 419
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e029021abdfcffed0800000000000000
+      internalID: -2377953536020278770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_48
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 409
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb3ef16ab09b7c0800000000000000
+      internalID: -4055197181342925978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_49
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 413
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b0cdcc30d770460800000000000000
+      internalID: 7207867183905114935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_50
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 403
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcb7c1535637b8b0800000000000000
+      internalID: -5136577118510531363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 406
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27adb0081dad68320800000000000000
+      internalID: 2559974031537986162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_52
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 401
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6857f13a04341f40800000000000000
+      internalID: 5698236646923130990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_53
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 378
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53836bb5b83f20d60800000000000000
+      internalID: 7855108479952238645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_54
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 387
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9840ca7f81c9860800000000000000
+      internalID: 7537927328333335013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_55
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 386
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9dd82012836c840800000000000000
+      internalID: 5243940530547448265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_56
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 336
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7ef79a9e36931f0800000000000000
+      internalID: -1064709981674149939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 353
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869bccf450efa2b80800000000000000
+      internalID: -8418637254648612504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_58
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 152
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb9da576eec53d0800000000000000
+      internalID: -3216433906176115693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_0: -8404737975286858074
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_1: 7266845390018058660
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_10: -4317553583038743660
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_11: -2072571019996014155
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_12: -5926489694581817721
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_13: 3684265026640997703
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_14: -8540569995804610457
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_15: -8788386039737301424
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_16: 614634674098861667
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_17: -7638198403746350130
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_18: 4350823932551023013
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_19: -7032141339227039217
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_2: 2780274168640073326
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_20: 5398341577067117499
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_21: -3644825839543734548
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_22: -7271992885914692726
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_23: -2511964656063712715
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_24: -472868931737777624
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_25: -3695264069800330941
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_26: 9140043627718780006
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_27: 1258468882565176769
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_28: -1717578182409286179
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_29: 4047016852864404858
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_3: -3730409640623090287
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_30: 9100936335773525982
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_31: -5283391698529304444
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_32: -115864025834608988
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_33: 4944908668389162708
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_34: -4728872957154643953
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_35: 3890635517905088809
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_36: -194100079657586268
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_37: 1157496611567189034
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_38: 138244084777312292
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_39: 5964428963517273281
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_4: 7721200550848361404
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_40: 560667006647361383
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_41: 3113107242289255468
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_42: 207087899876402373
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_43: 8631187036154277290
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_44: -2754787668185053432
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_45: -2922164549491960828
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_46: 3908485770570800716
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_47: -2377953536020278770
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_48: -4055197181342925978
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_49: 7207867183905114935
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_5: -6744169578397624637
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_50: -5136577118510531363
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_51: 2559974031537986162
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_52: 5698236646923130990
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_53: 7855108479952238645
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_54: 7537927328333335013
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_55: 5243940530547448265
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_56: -1064709981674149939
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_57: -8418637254648612504
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_58: -3216433906176115693
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_6: -8688032201555186028
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_7: 3072850558318853917
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_8: -7259439400214187370
+      blue-glitter-wave-abstract-illustration-blue-star-dust-trail-sparkling-particles-isolated-magic-concept-png_9: -5189970418313740951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

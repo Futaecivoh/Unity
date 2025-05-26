@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pixel-art-rural-landscape-background_52683-125379_0: 4606893284944407203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -7,6 +7,10 @@ TagManager:
   - Melon
   - Death
   - Traps
+  - EnemyEnv
+  - Enemy
+  - Exit
+  - DeadZone
   layers:
   - Default
   - TransparentFX

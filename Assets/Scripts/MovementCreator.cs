@@ -87,7 +87,7 @@ public class MovementCreator : MonoBehaviour
 
     private bool IsGrounded()
     {
-        Debug.DrawRay(transform.position, Vector3.down * rayDistance, Color.red);  
+        
         return Physics2D.Raycast(transform.position, Vector2.down, rayDistance, groundLayer); 
     }
 
@@ -97,15 +97,5 @@ public class MovementCreator : MonoBehaviour
         rb.AddForce(new Vector2(0, speedJump), ForceMode2D.Impulse);  
         animator.SetBool("IsJumping", true);  
         soundJump.Play(); 
-    }
-
-  
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Melon"))
-        {
-            Destroy(other.gameObject, 0.3f);  
-            cm.coinCount++; 
-        }
     }
 }
